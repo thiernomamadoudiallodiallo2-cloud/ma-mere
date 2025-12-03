@@ -2061,3 +2061,4 @@ $solde_total = $total_recettes - $total_depenses;
 </html>
 <?php endif; ?>
 
+
